@@ -40,7 +40,7 @@ Video Extends es un plugin ligero para WordPress que permite insertar videos MP4
 
   # licencia y derecho de autor
 
-Este módulo es un software libre y está bajo la licencia GNU LESSER GENERAL PUBLIC LICENSE (LGPL).
+Este plugin es un software libre y está bajo la licencia GNU LESSER GENERAL PUBLIC LICENSE (LGPL).
 Copyright (C) 2025 Alvin Gil Saldaña. Todos los derechos reservados.
 
 
