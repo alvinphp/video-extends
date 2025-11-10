@@ -26,6 +26,7 @@ Video Extends es un plugin ligero para WordPress que permite insertar videos MP4
 
 > **Nota:** Para que el plugin funcione correctamente, es necesario guardar las imágenes y los videos en las carpetas `img` y `video` dentro de la carpeta `assets` del proyecto. Asegúrate de respetar esta estructura para evitar errores al cargar los archivos.
 
+[Documentación completa del pkugin](https://github.com/alvinphp/documentation-video-extends)
 
 
 # atributos de shortcode
